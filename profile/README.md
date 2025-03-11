@@ -1,4 +1,4 @@
-¡BienveBienvenid@s a LabVIEW Gym, espacio inclusivo y lleno de energía donde los desarrolladores de LabVIEW se unen para entrenar, fortalecer y potenciar sus habilidades en el fascinante ecosistema de National Instruments, especialmente en LabVIEW! 🚀 
+¡Bienvenid@s a LabVIEW Gym, espacio inclusivo y lleno de energía donde los desarrolladores de LabVIEW se unen para entrenar, fortalecer y potenciar sus habilidades en el fascinante ecosistema de National Instruments, especialmente en LabVIEW! 🚀 
 
 ¿Qué hacemos aquí? 💡 
 
